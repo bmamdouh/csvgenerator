@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mockaro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mockaro_jar</output-path>
+    <root id="archive" name="Mockaro.jar">
+      <element id="module-output" name="Mockaro" />
+    </root>
+  </artifact>
+</component>
