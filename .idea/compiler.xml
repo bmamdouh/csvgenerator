@@ -9,5 +9,8 @@
         <module name="Mockaro" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Mockaro" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
